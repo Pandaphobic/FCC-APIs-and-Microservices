@@ -1,6 +1,11 @@
 {
   "author": "Chris Steffes Pandaphobic",
   "description": "FCC Project to learn APIs and Mircoservices",
+  "keywords": [
+    "learning",
+    "something",
+    "new"
+  ],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
